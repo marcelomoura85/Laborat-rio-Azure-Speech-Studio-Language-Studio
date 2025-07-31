@@ -1,4 +1,4 @@
-# Laborat-rio-Azure-Speech-Studio-Language-Studio
+# Laboratóri0-Azure-Speech-Studio-Language-Studio
 
 ## Este projeto foi desenvolvido como parte do desafio da DIO para aplicar conceitos de inteligência artificial voltados à fala e linguagem natural utilizando ferramentas da Microsoft Azure.
 🧪 Objetivo
